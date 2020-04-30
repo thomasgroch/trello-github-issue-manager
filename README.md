@@ -7,7 +7,7 @@
 [![Packagist](http://img.shields.io/packagist/dm/loopline-systems/trello-github-issue-manager.svg)](https://packagist.org/packages/loopline-systems/trello-github-issue-manager)
 [![Packagist](http://img.shields.io/packagist/dd/loopline-systems/trello-github-issue-manager.svg)](https://packagist.org/packages/loopline-systems/trello-github-issue-manager)
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thomasgroch/trello-github-issue-manager/tree/features/heroku-button)
 
 
 ## Description
